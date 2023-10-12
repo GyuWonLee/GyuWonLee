@@ -1,7 +1,7 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=ffc0cb&height=150&section=header&text=GyuWonLee&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&text=&animation=twinkling&height=80)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=ffc0cb&center=false&vCenter=false&multiline=true&repeat=true&width=650&height=100&lines=Welcome+to+gyuwon's+GitHub!👋)](https://git.io/typing-svg)
 
 ####  :wave: Welcome my github profile !
 
