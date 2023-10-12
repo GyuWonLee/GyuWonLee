@@ -1,10 +1,11 @@
 <div align="center"> 
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=ffc0cb&height=150&section=header&text=GyuWonLee&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-  
+
+
 ####  :wave: Welcome my github profile !
 
-  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGyuWonLee%2Fhit-counter&count_bg=%23FFFFFF&title_bg=%23FFC0CB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ####  :clipboard: Once I've Used 
   
  <br/>
