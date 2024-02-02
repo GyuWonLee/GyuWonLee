@@ -1,4 +1,4 @@
-<div align="center"> 
+![image](https://github.com/GyuWonLee/GyuWonLee/assets/37896874/9d3ff184-3298-457a-8c76-40da4d0e3bbf)<div align="center"> 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=ffc0cb&center=false&vCenter=false&multiline=true&repeat=true&width=650&height=100&lines=Welcome+to+gyuwon's+GitHub!👋)](https://git.io/typing-svg)
@@ -24,7 +24,10 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
-
+<br>
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
  
    <br/>
