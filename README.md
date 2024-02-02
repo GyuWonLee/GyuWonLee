@@ -1,4 +1,4 @@
-
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=ffc0cb&center=false&vCenter=false&multiline=true&repeat=true&width=650&height=100&lines=Welcome+to+gyuwon's+GitHub!👋)](https://git.io/typing-svg)
 
@@ -35,7 +35,5 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
+
 </div>
-
-</div><br>
-
