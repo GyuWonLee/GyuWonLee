@@ -8,7 +8,7 @@
 ####  :clipboard: Once I've Used 
 
 
-![Eunjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjeong09&show_icons=true)
+
 
 
 
