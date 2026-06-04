@@ -1,51 +1,74 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=GyuWon%20Lee&fontSize=58&fontAlignY=36&desc=Frontend%20%7C%20Service%20%7C%20UI%20Flow&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ffb7c5,ffd6e0,c5e8ff&height=200&section=header&text=gyuwon's%20github&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✨%20Welcome%20to%20my%20little%20space!%20✨&descAlignY=60&descSize=18" />
 
-### 안녕하세요, 사용자 흐름을 생각하며 구현하는 이규원입니다.
+<br/>
 
-화면의 작은 디테일부터 데이터가 이어지는 구조까지 경험하며  
-직접 만들고, 개선하고, 끝까지 완성하는 개발자가 되고 싶습니다.
+### 🌸 Hi there! I'm Gyuwon 🌸
 
-<br>
+> 🐣 프론트엔드를 좋아하는 개발자입니다 !
+> 귀여운 것들을 좋아하고, 사용자 경험을 고민합니다 🍀
 
-## Tech Stack
+<br/>
 
-### Frontend
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=222"/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=222"/>
-<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
+---
 
-### Backend & Database
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSP-555555?style=flat-square"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+### 🎀 Tech Stack
 
-### Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
+**Frontend**
 
-<br>
+<img src="https://img.shields.io/badge/HTML5-FFB7C5?style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-C5E8FF?style=for-the-badge&logo=CSS3&logoColor=5b9bd5">
+<img src="https://img.shields.io/badge/JavaScript-FFF0C5?style=for-the-badge&logo=JavaScript&logoColor=d4a000">
+<img src="https://img.shields.io/badge/jQuery-C5E8FF?style=for-the-badge&logo=jQuery&logoColor=0769AD">
+<img src="https://img.shields.io/badge/Sass-FFD6E8?style=for-the-badge&logo=Sass&logoColor=CC6699">
+<img src="https://img.shields.io/badge/React-C5F5FF?style=for-the-badge&logo=React&logoColor=00b4d8">
+<img src="https://img.shields.io/badge/Bootstrap-E8C5FF?style=for-the-badge&logo=Bootstrap&logoColor=8000FF">
 
-## What I Like
+<br/><br/>
 
-사용자가 실제로 보는 화면을 고민합니다.  
-기획한 흐름이 자연스럽게 동작하도록 구현하는 과정을 좋아합니다.  
-막히는 문제는 기록하고, 다시 꺼내볼 수 있게 정리합니다.
+**Backend & DB**
 
+<img src="https://img.shields.io/badge/JAVA-FFD6C5?style=for-the-badge&logo=openjdk&logoColor=d4622a">
+<img src="https://img.shields.io/badge/Spring-C5F0D4?style=for-the-badge&logo=Spring&logoColor=6DB33F">
+<img src="https://img.shields.io/badge/Python-C5DCF5?style=for-the-badge&logo=Python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/MySQL-C5E8FF?style=for-the-badge&logo=MySQL&logoColor=4479A1">
+<img src="https://img.shields.io/badge/Oracle-FFD6C5?style=for-the-badge&logo=Oracle&logoColor=F80000">
 
-<br><br>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+**Tools**
+
+<img src="https://img.shields.io/badge/GitHub-f0f0f0?style=for-the-badge&logo=github&logoColor=181717">
+<img src="https://img.shields.io/badge/VSCode-C5E8FF?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC">
+
+<br/><br/>
+
+---
+
+### 🌷 GitHub Stats
+
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=GyuWonLee&show_icons=true&theme=buefy&border_radius=16&title_color=ff8fab&icon_color=ffb3c6&text_color=777&border_color=ffb3c6&bg_color=fff9fb" />
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyuWonLee&layout=compact&theme=buefy&border_radius=16&title_color=ff8fab&text_color=777&border_color=ffb3c6&bg_color=fff9fb" />
+
+<br/><br/>
+
+---
+
+### 🍓 Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GyuWonLee&theme=buefy&border_radius=16&ring=ffb3c6&fire=ff8fab&currStreakLabel=ff8fab&border=ffb3c6&background=fff9fb&stroke=ffb3c6&sideLabels=aaa&dates=bbb" />
+
+<br/><br/>
+
+---
+
+### 🐾 Visitor Count
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=GyuWonLee.GyuWonLee&left_color=ffb3c6&right_color=ffd6e0&left_text=visitors)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c5e8ff,ffd6e0,ffb7c5&height=120&section=footer" />
 
 </div>
