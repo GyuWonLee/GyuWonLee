@@ -43,16 +43,6 @@
 기획한 흐름이 자연스럽게 동작하도록 구현하는 과정을 좋아합니다.  
 막히는 문제는 기록하고, 다시 꺼내볼 수 있게 정리합니다.
 
-<br>
-
-## Links
-
-<a href="https://www.gyuwon.net/ssafy_helper/index.html">
-  <img src="https://img.shields.io/badge/Portfolio-2B70B6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-<a href="https://gwlee.tistory.com/">
-  <img src="https://img.shields.io/badge/Tech%20Blog-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
-</a>
 
 <br><br>
 
