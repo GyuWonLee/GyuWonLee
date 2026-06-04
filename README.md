@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=GyuWon%20Lee&fontSize=58&fontAlignY=36&desc=Frontend%20%7C%20Service%20%7C%20UI%20Flow&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=GyuWon%20Lee&fontSize=58&fontAlignY=36&animation=fadeIn" />
 
 ### 안녕하세요, 사용자 흐름을 생각하며 구현하는 이규원입니다.
 
