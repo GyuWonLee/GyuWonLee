@@ -60,9 +60,6 @@
 
 ## 🔗 Links
 
-<a href="https://www.gyuwon.net/ssafy_helper/index.html">
-  <img src="https://img.shields.io/badge/Portfolio-2B70B6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
 <a href="https://gwlee.tistory.com/">
   <img src="https://img.shields.io/badge/Tech%20Blog-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
 </a>
