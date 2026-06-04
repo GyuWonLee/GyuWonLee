@@ -37,13 +37,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=GyuWonLee&show_icons=true&hide_border=true&title_color=4FC3F7&icon_color=4FC3F7&text_color=555&bg_color=ffffff&cache_seconds=1800" />
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyuWonLee&layout=compact&hide_border=true&title_color=4FC3F7&text_color=555&bg_color=ffffff&cache_seconds=1800" />
-
-<br>
-
 ## 🔥 Streak
 
 <img src="https://streak-stats.demolab.com/?user=GyuWonLee&hide_border=true&ring=4FC3F7&fire=F7A944&currStreakLabel=4FC3F7&sideLabels=888&dates=aaa&background=ffffff" />
