@@ -39,8 +39,8 @@
 
 ## 📊 GitHub Stats
 
-<img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GyuWonLee&show_icons=true&hide_border=true&title_color=4FC3F7&icon_color=4FC3F7&text_color=555&bg_color=ffffff" />
-<img height="160px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GyuWonLee&layout=compact&hide_border=true&title_color=4FC3F7&text_color=555&bg_color=ffffff" />
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=GyuWonLee&show_icons=true&hide_border=true&title_color=4FC3F7&icon_color=4FC3F7&text_color=555&bg_color=ffffff&cache_seconds=1800" />
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyuWonLee&layout=compact&hide_border=true&title_color=4FC3F7&text_color=555&bg_color=ffffff&cache_seconds=1800" />
 
 <br>
 
